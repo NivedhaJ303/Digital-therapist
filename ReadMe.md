@@ -45,4 +45,5 @@ mental-health-companion/
 ├── components/             # Flashcards, mood tracker, footer
 └── utils/                  # Helper functions and mood analysis logic
 🛡️ Disclaimer
+
 This chatbot offers emotional support and information only. It is not a replacement for professional mental health care. If needed, please reach out to a licensed therapist.
