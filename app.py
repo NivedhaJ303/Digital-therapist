@@ -3,7 +3,7 @@ import google.generativeai as genai
 
 # --------------------------- CONFIG ---------------------------
 st.set_page_config(page_title="🧠 Mental Health Companion", layout="centered")
-genai.configure(api_key=st.secrets["GOOGLE_API_KEY"]["api_key"])
+genai.configure(api_key=st.secrets["GOOGLE_API_KEY"])
 
 # --------------------------- HELPER ---------------------------
 def get_ai_response(prompt, model_name="gemini-2.5-flash-lite"):
