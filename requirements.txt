@@ -1,6 +1,8 @@
 streamlit
+pandas
 numpy
 emoji
 openai
-python-dotenv
 requests
+python-dotenv
+google-generativeai
